@@ -1,0 +1,8 @@
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\bin\Debug\ActualRappel.net.dll
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\bin\Debug\ActualRappel.net.pdb
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\bin\Debug\CitizenFX.Core.dll
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\obj\Debug\ActualRappel.csprojAssemblyReference.cache
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\obj\Debug\ActualRappel.csproj.CoreCompileInputs.cache
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\obj\Debug\ActualRappel.csproj.CopyComplete
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\obj\Debug\ActualRappel.net.dll
+D:\Documents\Code\actual-rappel\ActualRappel\ActualRappel\obj\Debug\ActualRappel.net.pdb
